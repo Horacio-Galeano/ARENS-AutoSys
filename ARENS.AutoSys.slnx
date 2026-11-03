@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ARENS.AutoSys.Datos/ARENS.AutoSys.Datos.csproj" />
+  <Project Path="ARENS.AutoSys.Negocio/ARENS.AutoSys.Negocio.csproj" />
+  <Project Path="ARENS.AutoSys.Presentacion/ARENS.AutoSys.Presentacion.csproj" />
+</Solution>
